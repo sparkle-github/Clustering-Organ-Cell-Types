@@ -1,7 +1,6 @@
 # Clustering-Organ-Cell-Types
 My project uses the Tabula Sapiens dataset from the Chan Zuckerberg Biohub (CZ Biohub, SF) to cluster scRNA-seq data by gene expression and biological features, identify distinct cell types and states for insights into organ structure and heterogeneity, and validate results using a developed novel cluster validation algorithm.
 
-# Organ Cell Type Clustering using Machine Learning
 ### Master's Research Project | San Jose State University
 
 ## 📌 Project Overview
@@ -32,7 +31,7 @@ The official website for Tabula Sapiens by CZ Biohub - https://tabula-sapiens.sf
 This project is open-source under the **MIT License**.
 
 If you use this code or methodology in your research, please cite:
-> Swathi M V S. (2025). *Organ Cell Type Clustering*. Master's Project, San Jose State University. Available at: [Link to this GitHub Repo]
+> Swathi M V S. (2025). *Organ Cell Type Clustering*. Master's Project, San Jose State University. Available at: https://github.com/sparkle-github/Clustering-Organ-Cell-Types
 
 ## 🙌 Acknowledgements
 * Guidance provided by Prof. Chris Pollett.
