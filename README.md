@@ -13,7 +13,7 @@ This project applies unsupervised machine learning techniques to cluster organ c
 * Visualize clusters for biological interpretation.
 
 ## 🛠️ Technologies Used
-* **Language:** Python 3.x
+* **Language:** Python 3.12
 * **Libraries:** Scanpy, Anndata, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Tools:** Jupyter Notebook
 
