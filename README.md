@@ -14,9 +14,9 @@ This project applies unsupervised machine learning techniques to cluster organ c
 * Validate clusters using novel cluster validation algorithm based on Cell Lineage Tree.
 
 ## 📓 Code
-1. **298_k-means_AllCells.ipynb** - Contains All Cells dataset contains over 1.1M cells from 28 organs of 24 human subjects. The dataset is loaded, preprocessed, normalized, mitochondrial genes are removed, and the Elbow method is carried out to identify the number of clusters.
-2. **298_compare_kmeans_celltype_AllCells.ipynb** - After determining the number of clusters in the above file, k-means in performed on the All Cells data and visualized using data viaualization techniques like PCA, UMAP and t-SNE; original clusters are compared with the generated clusters using heatmaps. 
-3. **CS298_SampleData_Analysis_5April_2025_Mod20Apr.ipynb** - Here 2 distinct non-overlapping subsets of the All Cells data are extracted based on the top most expressed genes, preprocessed again and the number of clusters are determined and k-means is performed, data is visualized, cluster selection metrics (Shannon's Diversity and Pielou's Evenness) are used to further select few clusters to determine their validity. Clusters are validated using novel Cluster validation algorithms developed based on the Cell Developmental Stage Tree. 
+* **298_k-means_AllCells.ipynb** - Contains All Cells dataset contains over 1.1M cells from 28 organs of 24 human subjects. The dataset is loaded, preprocessed, normalized, mitochondrial genes are removed, and the Elbow method is carried out to identify the number of clusters.
+* **298_compare_kmeans_celltype_AllCells.ipynb** - After determining the number of clusters in the above file, k-means in performed on the All Cells data and visualized using data viaualization techniques like PCA, UMAP and t-SNE; original clusters are compared with the generated clusters using heatmaps. 
+* **CS298_SampleData_Analysis_5April_2025_Mod20Apr.ipynb** - Here 2 distinct non-overlapping subsets of the All Cells data are extracted based on the top most expressed genes, preprocessed again and the number of clusters are determined and k-means is performed, data is visualized, cluster selection metrics (Shannon's Diversity and Pielou's Evenness) are used to further select few clusters to determine their validity. Clusters are validated using novel Cluster validation algorithms developed based on the Cell Developmental Stage Tree. 
 
 
 ## 🛠️ Technologies Used
