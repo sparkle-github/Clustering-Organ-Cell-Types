@@ -11,7 +11,10 @@ This project applies unsupervised machine learning techniques to cluster organ c
 * Implement dimensionality reduction (e.g., PCA, t-SNE).
 * Apply clustering algorithms (e.g., K-Means) to categorize cell types.
 * Visualize clusters for biological interpretation.
-* Validate clusters using novel cluster validation algorithm based on Cell Lineage Tree. 
+* Validate clusters using novel cluster validation algorithm based on Cell Lineage Tree.
+
+## Code
+
 
 ## 🛠️ Technologies Used
 * **Language:** Python 3.12
