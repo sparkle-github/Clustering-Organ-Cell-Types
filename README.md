@@ -34,7 +34,7 @@ This project applies unsupervised machine learning techniques to cluster organ c
 The official website for Tabula Sapiens by CZ Biohub - https://tabula-sapiens.sf.czbiohub.org/
 
 * **Source:** Tabula Sapiens - https://cellxgene.cziscience.com/collections/e5f58829-1a66-40b5-a624-9046778e74f5 
-* **Access:** To run this project locally, please download the All Cells dataset from the source above and follow the steps in the jupyter notebooks
+* **Execution:** To run this project locally, please download the All Cells dataset from the source above and follow the steps in the jupyter notebooks. I used HPC to allocate memory and run on the server since my laptop didn't support working with such a large dataset. Otherwize you can directly download the SampleData_Analysis notebook and run it locally as it contains reduced subsets of the data. 
 
 
 ## 📜 License & Citation
